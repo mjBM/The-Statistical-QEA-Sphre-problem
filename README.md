@@ -1,1 +1,1 @@
-# The-Statistical-QEA-Sphre-problem
+# The-Statistical-Quantum Evolutionary Algorithm
