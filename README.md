@@ -11,8 +11,8 @@ This algorithm is employed by statitistical idea on QEA latform which improves t
 * [*"A novel initialization for quantum evolutionary algorithms based on spatial correlation in images for fractal image compression."* In Soft Computing in Industrial Applications, pp. 317-325. Springer, Berlin, Heidelberg, 2011.](https://link.springer.com/chapter/10.1007/978-3-642-20505-7_28)
 
 The codes which uploaded, are employed to make solution for *Sphere model problem*. Sphere problem is a numerical function in a certain range and the goal is finding the global minima, however it has *d local minimas* (d is the dimensions of model).
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
+
 
 For running we need:
 * Mtlab 2009 or later versions
