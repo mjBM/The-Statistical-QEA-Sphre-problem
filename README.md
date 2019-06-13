@@ -12,7 +12,7 @@ This algorithm is employed by statitistical idea on QEA latform which improves t
 
 The codes which uploaded, are employed to make solution for *Sphere model problem*. Sphere problem is a numerical function in a certain range and the goal is finding the global minima, however it has *d local minimas* (d is the dimensions of model).
 
-
+![fig1](/images/sphere-model.png)
 
 For running we need:
 * Mtlab 2009 or later versions
