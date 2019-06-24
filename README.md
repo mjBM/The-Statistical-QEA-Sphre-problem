@@ -17,7 +17,7 @@ The *MATLAB* codes which uploaded, are employed to make solution for *Sphere mod
 We implemented basic QEA and statistical QEA on other several problems which mentioned in related publications.
 
 For running we need:
-* Mtlab 2009 or later versions
+* Matlab 2009 or later versions
 * Windows XP,7,Vista,8,10
 
 
